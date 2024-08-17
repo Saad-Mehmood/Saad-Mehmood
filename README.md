@@ -1,0 +1,5 @@
+- Hi, I’m Saad, I'm a physics student interested in computational physics and simulations.
+- I mainly work in Python but I have experiece in C and fortran just in case I need the speed. But let's be honest, the algorithm matters not the language.
+- I like to new learn new numerical techniques to solve problems and further improve my simulations
+- If you have any questions regarding any of my codes, Just email me on saadmafridi@gmail.com
+- Fun fact: Bananas are berries.
